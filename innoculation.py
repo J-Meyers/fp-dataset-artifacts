@@ -1,5 +1,3 @@
-import skorch
-from skorch import NeuralNetClassifier
 import sklearn as sk
 from sklearn.model_selection import GridSearchCV
 from torch import nn
@@ -13,6 +11,7 @@ import matplotlib.pyplot as plt
 from mpl_toolkits import mplot3d
 import copy
 import sys
+import time
 
 NUM_PREPROCESSING_WORKERS = 4
 
@@ -22,6 +21,7 @@ def main():
 
     argp.add_argument('--model', type=str, default='google/electra-small-discriminator')
     argp.add_argument('--dataset', type=str)
+    argp.add_argument('--m_out', type=str)
     task = 'nli'
     max_length = 128
 
@@ -57,6 +57,8 @@ def main():
         num_proc=NUM_PREPROCESSING_WORKERS,
         remove_columns=baseline_dataset['validation'].column_names
     )
+    # Only select 5000 examples for the baseline dataset
+    baseline_dataset = baseline_dataset.select(range(5000))
 
     trainer_class = Trainer
 
@@ -74,11 +76,22 @@ def main():
     # Do not search over batch size
 
     # Do the hyperparameter search
-    # learning_rates = [2e-5, 3e-5, 5e-5, 7e-5, 1e-4, 2e-4, 3e-4, 5e-4, 7e-4, 1e-3]
-    learning_rates = [5e-5, 7e-5, 1e-4, 2e-4]
-    training_portions = [0.1 * i for i in range(3, 11)]
+    learning_rates = [2e-5, 3e-5, 5e-5, 7e-5, 1e-4, 2e-4, 3e-4, 5e-4, 7e-4, 1e-3]
+    # learning_rates = [2e-5, 3e-5, 5e-5]
+    # learning_rates = [5e-5, 7e-5]
+    # training_portions = [0.1 * i for i in range(11, 31)]
+    # training_portions = [0.1 * i for i in range(9, 11)]
+    first_training_portions = [0.1 * i for i in range(3, 11)]
+    # first_training_portions = []
+    # Iterate from 1 to 3 in increments of 0.25
+    second_training_portions = [0.25 * i for i in range(5, 13)]
+    # second_training_portions = []
+    # Iterate from 3.5 to 5 in increments of 0.5
+    third_training_portions = [0.5 * i for i in range(7, 11)]
+    training_portions = first_training_portions + second_training_portions + third_training_portions
 
     best_model = None
+    best_trainer = None
     best_score = 0
 
     num_folds = 5
@@ -106,8 +119,28 @@ def main():
 
                 # Select the training portion
                 # from train_dataset take p * len(train_dataset)
+                partial_portion = p % 1
+                full_portions = int(p)
                 num_train_examples = int(p * len(train_dataset))
-                train_dataset = train_dataset.select(range(num_train_examples))
+                partial_train_examples = int(partial_portion * len(train_dataset))
+
+                # Now select the full portions
+                full_train_datasets = []
+                for i in range(full_portions):
+                    full_train_datasets.append(train_dataset)
+                if partial_portion > 0:
+                    full_train_datasets.append(train_dataset.select(range(partial_train_examples)))
+                # Now concatenate the datasets
+                train_dataset = sk.utils.shuffle(datasets.concatenate_datasets(full_train_datasets))
+
+                # Convert train_dataset from a dict to a Dataset
+                train_dataset = datasets.Dataset.from_dict(train_dataset)
+
+                # Print the number of examples in the training dataset
+                print('Training dataset length: {}'.format(train_dataset.num_rows))
+
+                # Print the expected length
+                print('Expected length: {}'.format(num_train_examples))
 
                 # Set the epochs
                 training_args.num_train_epochs = 1
@@ -151,6 +184,7 @@ def main():
             if avg_scores[-1][2] > best_score:
                 best_score = avg_scores[-1][2]
                 best_model = model
+                best_trainer = trainer
 
             print(f'Learning rate: {lr}, training portion: {p}')
             print("Baseline score: ", baseline_scores[-1])
@@ -160,10 +194,7 @@ def main():
             # Flush the output
             sys.stdout.flush()
 
-    # Save the best model
-    best_model.save_pretrained('best_model_1')
-
-    fig = plt.figure()
+    fig = plt.figure(figsize=(10, 10), dpi=100)
     ax = plt.axes(projection='3d')
     ax.set_xlabel('Learning Rate')
     ax.set_ylabel('Training Portion')
@@ -193,7 +224,19 @@ def main():
     num_train_examples = int(percentage * len(dataset_featurized) * 0.8)  # 80% of the dataset is training data with 5 fold cross validation
     # Shuffle the dataset
     dataset_featurized = dataset_featurized.shuffle()
-    train_dataset = dataset_featurized.select(range(num_train_examples))
+
+    # Handle the num_train_examples being greater than the dataset size, make sure to take at least one full dataset, and then take the remainder as a partial daatset
+    full_portions = int(num_train_examples / len(dataset_featurized))
+    partial_portion = num_train_examples % len(dataset_featurized)
+    full_datasets = []
+    for i in range(full_portions):
+        full_datasets.append(dataset_featurized)
+    if partial_portion > 0:
+        full_datasets.append(dataset_featurized.select(range(partial_portion)))
+    train_dataset = datasets.concatenate_datasets(full_datasets)
+
+    # Save the model with trainer.save_model()
+    best_trainer.save_model(args.m_out + 'best_model')
 
     # Set the epochs
     training_args.num_train_epochs = 1
@@ -220,9 +263,11 @@ def main():
 
     trainer.train()
 
-    # Save the model
-    model.save_pretrained('final_model')
+    # Save the model with trainer.save_model()
+    trainer.save_model(args.m_out + 'best_model_full')
 
 
 if __name__ == '__main__':
+    start_time = time.time()
     main()
+    print("--- %s seconds ---" % (time.time() - start_time))

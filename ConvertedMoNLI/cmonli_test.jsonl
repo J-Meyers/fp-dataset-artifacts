@@ -1,0 +1,400 @@
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a mammal", "label": 2}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a mammal", "label": 0}
+{"premise": "the man does own a mammal", "hypothesis": "the man does not own a dog", "label": 0}
+{"premise": "the man does not own a mammal", "hypothesis": "the man does own a dog", "label": 2}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own an animal", "label": 2}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own an animal", "label": 0}
+{"premise": "the man does own an animal", "hypothesis": "the man does not own a dog", "label": 0}
+{"premise": "the man does not own an animal", "hypothesis": "the man does own a dog", "label": 2}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a pinscher", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a pinscher", "label": 2}
+{"premise": "the man does own a pinscher", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a pinscher", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a sheepdog", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a sheepdog", "label": 2}
+{"premise": "the man does own a sheepdog", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a sheepdog", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a greyhound", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a greyhound", "label": 2}
+{"premise": "the man does own a greyhound", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a greyhound", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a hound", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a hound", "label": 2}
+{"premise": "the man does own a hound", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a hound", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a husky", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a husky", "label": 2}
+{"premise": "the man does own a husky", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a husky", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a dachshund", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a dachshund", "label": 2}
+{"premise": "the man does own a dachshund", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a dachshund", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a Chihuahua", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a Chihuahua", "label": 2}
+{"premise": "the man does own a Chihuahua", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a Chihuahua", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a spaniel", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a spaniel", "label": 2}
+{"premise": "the man does own a spaniel", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a spaniel", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a pug", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a pug", "label": 2}
+{"premise": "the man does own a pug", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a pug", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a beagle", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a beagle", "label": 2}
+{"premise": "the man does own a beagle", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a beagle", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a malamute", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a malamute", "label": 2}
+{"premise": "the man does own a malamute", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a malamute", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a Maltese", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a Maltese", "label": 2}
+{"premise": "the man does own a Maltese", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a Maltese", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a Doberman", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a Doberman", "label": 2}
+{"premise": "the man does own a Doberman", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a Doberman", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a bulldog", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a bulldog", "label": 2}
+{"premise": "the man does own a bulldog", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a bulldog", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a collie", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a collie", "label": 2}
+{"premise": "the man does own a collie", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a collie", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a poodle", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a poodle", "label": 2}
+{"premise": "the man does own a poodle", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a poodle", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a Pomeranian", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a Pomeranian", "label": 2}
+{"premise": "the man does own a Pomeranian", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a Pomeranian", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a retriever", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a retriever", "label": 2}
+{"premise": "the man does own a retriever", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a retriever", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a schnauzer", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a schnauzer", "label": 2}
+{"premise": "the man does own a schnauzer", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a schnauzer", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a terrier", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a terrier", "label": 2}
+{"premise": "the man does own a terrier", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a terrier", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a corgi", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a corgi", "label": 2}
+{"premise": "the man does own a corgi", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a corgi", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a Rottweiler", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a Rottweiler", "label": 2}
+{"premise": "the man does own a Rottweiler", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a Rottweiler", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a Shetland", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a Shetland", "label": 2}
+{"premise": "the man does own a Shetland", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a Shetland", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "the man does own a dog", "hypothesis": "the man does not own a dalmatian", "label": 0}
+{"premise": "the man does not own a dog", "hypothesis": "the man does own a dalmatian", "label": 2}
+{"premise": "the man does own a dalmatian", "hypothesis": "the man does not own a dog", "label": 2}
+{"premise": "the man does not own a dalmatian", "hypothesis": "the man does own a dog", "label": 0}
+{"premise": "The girl will get a stuffed dog as a gift.", "hypothesis": "The girl will not get a stuffed mammal as a gift.", "label": 2}
+{"premise": "The girl will not get a stuffed dog as a gift.", "hypothesis": "The girl will get a stuffed mammal as a gift.", "label": 0}
+{"premise": "The girl will get a stuffed mammal as a gift.", "hypothesis": "The girl will not get a stuffed dog as a gift.", "label": 0}
+{"premise": "The girl will not get a stuffed mammal as a gift.", "hypothesis": "The girl will get a stuffed dog as a gift.", "label": 2}
+{"premise": "The girl will get a stuffed dog as a gift.", "hypothesis": "The girl will not get a stuffed animal as a gift.", "label": 2}
+{"premise": "The girl will not get a stuffed dog as a gift.", "hypothesis": "The girl will get a stuffed animal as a gift.", "label": 0}
+{"premise": "The girl will get a stuffed animal as a gift.", "hypothesis": "The girl will not get a stuffed dog as a gift.", "label": 0}
+{"premise": "The girl will not get a stuffed animal as a gift.", "hypothesis": "The girl will get a stuffed dog as a gift.", "label": 2}
+{"premise": "The girl will get a stuffed dog as a gift.", "hypothesis": "The girl will not get a stuffed pug as a gift.", "label": 0}
+{"premise": "The girl will not get a stuffed dog as a gift.", "hypothesis": "The girl will get a stuffed pug as a gift.", "label": 2}
+{"premise": "The girl will get a stuffed pug as a gift.", "hypothesis": "The girl will not get a stuffed dog as a gift.", "label": 2}
+{"premise": "The girl will not get a stuffed pug as a gift.", "hypothesis": "The girl will get a stuffed dog as a gift.", "label": 0}
+{"premise": "The girl will get a stuffed dog as a gift.", "hypothesis": "The girl will not get a stuffed husky as a gift.", "label": 0}
+{"premise": "The girl will not get a stuffed dog as a gift.", "hypothesis": "The girl will get a stuffed husky as a gift.", "label": 2}
+{"premise": "The girl will get a stuffed husky as a gift.", "hypothesis": "The girl will not get a stuffed dog as a gift.", "label": 2}
+{"premise": "The girl will not get a stuffed husky as a gift.", "hypothesis": "The girl will get a stuffed dog as a gift.", "label": 0}
+{"premise": "The girl will get a stuffed dog as a gift.", "hypothesis": "The girl will not get a stuffed corgi as a gift.", "label": 0}
+{"premise": "The girl will not get a stuffed dog as a gift.", "hypothesis": "The girl will get a stuffed corgi as a gift.", "label": 2}
+{"premise": "The girl will get a stuffed corgi as a gift.", "hypothesis": "The girl will not get a stuffed dog as a gift.", "label": 2}
+{"premise": "The girl will not get a stuffed corgi as a gift.", "hypothesis": "The girl will get a stuffed dog as a gift.", "label": 0}
+{"premise": "The girl will get a stuffed dog as a gift.", "hypothesis": "The girl will not get a stuffed hound as a gift.", "label": 0}
+{"premise": "The girl will not get a stuffed dog as a gift.", "hypothesis": "The girl will get a stuffed hound as a gift.", "label": 2}
+{"premise": "The girl will get a stuffed hound as a gift.", "hypothesis": "The girl will not get a stuffed dog as a gift.", "label": 2}
+{"premise": "The girl will not get a stuffed hound as a gift.", "hypothesis": "The girl will get a stuffed dog as a gift.", "label": 0}
+{"premise": "The girl will get a stuffed dog as a gift.", "hypothesis": "The girl will not get a stuffed bulldog as a gift.", "label": 0}
+{"premise": "The girl will not get a stuffed dog as a gift.", "hypothesis": "The girl will get a stuffed bulldog as a gift.", "label": 2}
+{"premise": "The girl will get a stuffed bulldog as a gift.", "hypothesis": "The girl will not get a stuffed dog as a gift.", "label": 2}
+{"premise": "The girl will not get a stuffed bulldog as a gift.", "hypothesis": "The girl will get a stuffed dog as a gift.", "label": 0}
+{"premise": "The girl will get a stuffed dog as a gift.", "hypothesis": "The girl will not get a stuffed terrier as a gift.", "label": 0}
+{"premise": "The girl will not get a stuffed dog as a gift.", "hypothesis": "The girl will get a stuffed terrier as a gift.", "label": 2}
+{"premise": "The girl will get a stuffed terrier as a gift.", "hypothesis": "The girl will not get a stuffed dog as a gift.", "label": 2}
+{"premise": "The girl will not get a stuffed terrier as a gift.", "hypothesis": "The girl will get a stuffed dog as a gift.", "label": 0}
+{"premise": "The girl will get a stuffed dog as a gift.", "hypothesis": "The girl will not get a stuffed poodle as a gift.", "label": 0}
+{"premise": "The girl will not get a stuffed dog as a gift.", "hypothesis": "The girl will get a stuffed poodle as a gift.", "label": 2}
+{"premise": "The girl will get a stuffed poodle as a gift.", "hypothesis": "The girl will not get a stuffed dog as a gift.", "label": 2}
+{"premise": "The girl will not get a stuffed poodle as a gift.", "hypothesis": "The girl will get a stuffed dog as a gift.", "label": 0}
+{"premise": "The girl will get a stuffed dog as a gift.", "hypothesis": "The girl will not get a stuffed dalmatian as a gift.", "label": 0}
+{"premise": "The girl will not get a stuffed dog as a gift.", "hypothesis": "The girl will get a stuffed dalmatian as a gift.", "label": 2}
+{"premise": "The girl will get a stuffed dalmatian as a gift.", "hypothesis": "The girl will not get a stuffed dog as a gift.", "label": 2}
+{"premise": "The girl will not get a stuffed dalmatian as a gift.", "hypothesis": "The girl will get a stuffed dog as a gift.", "label": 0}
+{"premise": "The girl will get a stuffed dog as a gift.", "hypothesis": "The girl will not get a stuffed Shetland as a gift.", "label": 0}
+{"premise": "The girl will not get a stuffed dog as a gift.", "hypothesis": "The girl will get a stuffed Shetland as a gift.", "label": 2}
+{"premise": "The girl will get a stuffed Shetland as a gift.", "hypothesis": "The girl will not get a stuffed dog as a gift.", "label": 2}
+{"premise": "The girl will not get a stuffed Shetland as a gift.", "hypothesis": "The girl will get a stuffed dog as a gift.", "label": 0}
+{"premise": "The girl will get a stuffed dog as a gift.", "hypothesis": "The girl will not get a stuffed pinscher as a gift.", "label": 0}
+{"premise": "The girl will not get a stuffed dog as a gift.", "hypothesis": "The girl will get a stuffed pinscher as a gift.", "label": 2}
+{"premise": "The girl will get a stuffed pinscher as a gift.", "hypothesis": "The girl will not get a stuffed dog as a gift.", "label": 2}
+{"premise": "The girl will not get a stuffed pinscher as a gift.", "hypothesis": "The girl will get a stuffed dog as a gift.", "label": 0}
+{"premise": "The girl will get a stuffed dog as a gift.", "hypothesis": "The girl will not get a stuffed dachshund as a gift.", "label": 0}
+{"premise": "The girl will not get a stuffed dog as a gift.", "hypothesis": "The girl will get a stuffed dachshund as a gift.", "label": 2}
+{"premise": "The girl will get a stuffed dachshund as a gift.", "hypothesis": "The girl will not get a stuffed dog as a gift.", "label": 2}
+{"premise": "The girl will not get a stuffed dachshund as a gift.", "hypothesis": "The girl will get a stuffed dog as a gift.", "label": 0}
+{"premise": "The girl will get a stuffed dog as a gift.", "hypothesis": "The girl will not get a stuffed Doberman as a gift.", "label": 0}
+{"premise": "The girl will not get a stuffed dog as a gift.", "hypothesis": "The girl will get a stuffed Doberman as a gift.", "label": 2}
+{"premise": "The girl will get a stuffed Doberman as a gift.", "hypothesis": "The girl will not get a stuffed dog as a gift.", "label": 2}
+{"premise": "The girl will not get a stuffed Doberman as a gift.", "hypothesis": "The girl will get a stuffed dog as a gift.", "label": 0}
+{"premise": "The girl will get a stuffed dog as a gift.", "hypothesis": "The girl will not get a stuffed Pomeranian as a gift.", "label": 0}
+{"premise": "The girl will not get a stuffed dog as a gift.", "hypothesis": "The girl will get a stuffed Pomeranian as a gift.", "label": 2}
+{"premise": "The girl will get a stuffed Pomeranian as a gift.", "hypothesis": "The girl will not get a stuffed dog as a gift.", "label": 2}
+{"premise": "The girl will not get a stuffed Pomeranian as a gift.", "hypothesis": "The girl will get a stuffed dog as a gift.", "label": 0}
+{"premise": "The girl will get a stuffed dog as a gift.", "hypothesis": "The girl will not get a stuffed beagle as a gift.", "label": 0}
+{"premise": "The girl will not get a stuffed dog as a gift.", "hypothesis": "The girl will get a stuffed beagle as a gift.", "label": 2}
+{"premise": "The girl will get a stuffed beagle as a gift.", "hypothesis": "The girl will not get a stuffed dog as a gift.", "label": 2}
+{"premise": "The girl will not get a stuffed beagle as a gift.", "hypothesis": "The girl will get a stuffed dog as a gift.", "label": 0}
+{"premise": "The girl will get a stuffed dog as a gift.", "hypothesis": "The girl will not get a stuffed retriever as a gift.", "label": 0}
+{"premise": "The girl will not get a stuffed dog as a gift.", "hypothesis": "The girl will get a stuffed retriever as a gift.", "label": 2}
+{"premise": "The girl will get a stuffed retriever as a gift.", "hypothesis": "The girl will not get a stuffed dog as a gift.", "label": 2}
+{"premise": "The girl will not get a stuffed retriever as a gift.", "hypothesis": "The girl will get a stuffed dog as a gift.", "label": 0}
+{"premise": "The girl will get a stuffed dog as a gift.", "hypothesis": "The girl will not get a stuffed Rottweiler as a gift.", "label": 0}
+{"premise": "The girl will not get a stuffed dog as a gift.", "hypothesis": "The girl will get a stuffed Rottweiler as a gift.", "label": 2}
+{"premise": "The girl will get a stuffed Rottweiler as a gift.", "hypothesis": "The girl will not get a stuffed dog as a gift.", "label": 2}
+{"premise": "The girl will not get a stuffed Rottweiler as a gift.", "hypothesis": "The girl will get a stuffed dog as a gift.", "label": 0}
+{"premise": "The girl will get a stuffed dog as a gift.", "hypothesis": "The girl will not get a stuffed malamute as a gift.", "label": 0}
+{"premise": "The girl will not get a stuffed dog as a gift.", "hypothesis": "The girl will get a stuffed malamute as a gift.", "label": 2}
+{"premise": "The girl will get a stuffed malamute as a gift.", "hypothesis": "The girl will not get a stuffed dog as a gift.", "label": 2}
+{"premise": "The girl will not get a stuffed malamute as a gift.", "hypothesis": "The girl will get a stuffed dog as a gift.", "label": 0}
+{"premise": "The girl will get a stuffed dog as a gift.", "hypothesis": "The girl will not get a stuffed schnauzer as a gift.", "label": 0}
+{"premise": "The girl will not get a stuffed dog as a gift.", "hypothesis": "The girl will get a stuffed schnauzer as a gift.", "label": 2}
+{"premise": "The girl will get a stuffed schnauzer as a gift.", "hypothesis": "The girl will not get a stuffed dog as a gift.", "label": 2}
+{"premise": "The girl will not get a stuffed schnauzer as a gift.", "hypothesis": "The girl will get a stuffed dog as a gift.", "label": 0}
+{"premise": "The girl will get a stuffed dog as a gift.", "hypothesis": "The girl will not get a stuffed greyhound as a gift.", "label": 0}
+{"premise": "The girl will not get a stuffed dog as a gift.", "hypothesis": "The girl will get a stuffed greyhound as a gift.", "label": 2}
+{"premise": "The girl will get a stuffed greyhound as a gift.", "hypothesis": "The girl will not get a stuffed dog as a gift.", "label": 2}
+{"premise": "The girl will not get a stuffed greyhound as a gift.", "hypothesis": "The girl will get a stuffed dog as a gift.", "label": 0}
+{"premise": "The girl will get a stuffed dog as a gift.", "hypothesis": "The girl will not get a stuffed Chihuahua as a gift.", "label": 0}
+{"premise": "The girl will not get a stuffed dog as a gift.", "hypothesis": "The girl will get a stuffed Chihuahua as a gift.", "label": 2}
+{"premise": "The girl will get a stuffed Chihuahua as a gift.", "hypothesis": "The girl will not get a stuffed dog as a gift.", "label": 2}
+{"premise": "The girl will not get a stuffed Chihuahua as a gift.", "hypothesis": "The girl will get a stuffed dog as a gift.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a house.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a house.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a house.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a house.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a casino.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a casino.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a casino.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a casino.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a chapel.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a chapel.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a chapel.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a chapel.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a restaurant.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a restaurant.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a restaurant.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a restaurant.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a cabin.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a cabin.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a cabin.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a cabin.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a school.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a school.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a school.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a school.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a court.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a court.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a court.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a court.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside an opera.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside an opera.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside an opera.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside an opera.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a monastery.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a monastery.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a monastery.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a monastery.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a pub.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a pub.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a pub.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a pub.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a steakhouse.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a steakhouse.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a steakhouse.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a steakhouse.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a courthouse.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a courthouse.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a courthouse.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a courthouse.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a cathedral.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a cathedral.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a cathedral.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a cathedral.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a club.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a club.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a club.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a club.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a villa.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a villa.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a villa.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a villa.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside an embassy.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside an embassy.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside an embassy.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside an embassy.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a temple.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a temple.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a temple.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a temple.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a hotel.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a hotel.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a hotel.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a hotel.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a bungalow.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a bungalow.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a bungalow.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a bungalow.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a cafeteria.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a cafeteria.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a cafeteria.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a cafeteria.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a dormitory.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a dormitory.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a dormitory.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a dormitory.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a planetarium.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a planetarium.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a planetarium.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a planetarium.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a diner.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a diner.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a diner.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a diner.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a cafe.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a cafe.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a cafe.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a cafe.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a clinic.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a clinic.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a clinic.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a clinic.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a skyscraper.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a skyscraper.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a skyscraper.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a skyscraper.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a hospital.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a hospital.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a hospital.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a hospital.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a manor.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a manor.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a manor.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a manor.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a cinema.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a cinema.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a cinema.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a cinema.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a motel.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a motel.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a motel.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a motel.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside a library.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside a library.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside a library.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside a library.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A person reading a paper is currently sitting inside a building.", "hypothesis": "A person reading a paper is not currently sitting inside an inn.", "label": 0}
+{"premise": "A person reading a paper is not currently sitting inside a building.", "hypothesis": "A person reading a paper is currently sitting inside an inn.", "label": 2}
+{"premise": "A person reading a paper is currently sitting inside an inn.", "hypothesis": "A person reading a paper is not currently sitting inside a building.", "label": 2}
+{"premise": "A person reading a paper is not currently sitting inside an inn.", "hypothesis": "A person reading a paper is currently sitting inside a building.", "label": 0}
+{"premise": "A dog did catch any ball.", "hypothesis": "A dog did not catch any basketball.", "label": 0}
+{"premise": "A dog did not catch any ball.", "hypothesis": "A dog did catch any basketball.", "label": 2}
+{"premise": "A dog did catch any basketball.", "hypothesis": "A dog did not catch any ball.", "label": 2}
+{"premise": "A dog did not catch any basketball.", "hypothesis": "A dog did catch any ball.", "label": 0}
+{"premise": "A dog did catch any ball.", "hypothesis": "A dog did not catch any football.", "label": 0}
+{"premise": "A dog did not catch any ball.", "hypothesis": "A dog did catch any football.", "label": 2}
+{"premise": "A dog did catch any football.", "hypothesis": "A dog did not catch any ball.", "label": 2}
+{"premise": "A dog did not catch any football.", "hypothesis": "A dog did catch any ball.", "label": 0}
+{"premise": "A dog did catch any ball.", "hypothesis": "A dog did not catch any handball.", "label": 0}
+{"premise": "A dog did not catch any ball.", "hypothesis": "A dog did catch any handball.", "label": 2}
+{"premise": "A dog did catch any handball.", "hypothesis": "A dog did not catch any ball.", "label": 2}
+{"premise": "A dog did not catch any handball.", "hypothesis": "A dog did catch any ball.", "label": 0}
+{"premise": "A dog did catch any ball.", "hypothesis": "A dog did not catch any softball.", "label": 0}
+{"premise": "A dog did not catch any ball.", "hypothesis": "A dog did catch any softball.", "label": 2}
+{"premise": "A dog did catch any softball.", "hypothesis": "A dog did not catch any ball.", "label": 2}
+{"premise": "A dog did not catch any softball.", "hypothesis": "A dog did catch any ball.", "label": 0}
+{"premise": "A dog did catch any ball.", "hypothesis": "A dog did not catch any racquetball.", "label": 0}
+{"premise": "A dog did not catch any ball.", "hypothesis": "A dog did catch any racquetball.", "label": 2}
+{"premise": "A dog did catch any racquetball.", "hypothesis": "A dog did not catch any ball.", "label": 2}
+{"premise": "A dog did not catch any racquetball.", "hypothesis": "A dog did catch any ball.", "label": 0}
+{"premise": "A dog did catch any ball.", "hypothesis": "A dog did not catch any volleyball.", "label": 0}
+{"premise": "A dog did not catch any ball.", "hypothesis": "A dog did catch any volleyball.", "label": 2}
+{"premise": "A dog did catch any volleyball.", "hypothesis": "A dog did not catch any ball.", "label": 2}
+{"premise": "A dog did not catch any volleyball.", "hypothesis": "A dog did catch any ball.", "label": 0}
+{"premise": "A dog did catch any ball.", "hypothesis": "A dog did not catch any baseball.", "label": 0}
+{"premise": "A dog did not catch any ball.", "hypothesis": "A dog did catch any baseball.", "label": 2}
+{"premise": "A dog did catch any baseball.", "hypothesis": "A dog did not catch any ball.", "label": 2}
+{"premise": "A dog did not catch any baseball.", "hypothesis": "A dog did catch any ball.", "label": 0}
+{"premise": "The players did have a ball.", "hypothesis": "The players did not have a baseball.", "label": 0}
+{"premise": "The players did not have a ball.", "hypothesis": "The players did have a baseball.", "label": 2}
+{"premise": "The players did have a baseball.", "hypothesis": "The players did not have a ball.", "label": 2}
+{"premise": "The players did not have a baseball.", "hypothesis": "The players did have a ball.", "label": 0}
+{"premise": "The players did have a ball.", "hypothesis": "The players did not have a basketball.", "label": 0}
+{"premise": "The players did not have a ball.", "hypothesis": "The players did have a basketball.", "label": 2}
+{"premise": "The players did have a basketball.", "hypothesis": "The players did not have a ball.", "label": 2}
+{"premise": "The players did not have a basketball.", "hypothesis": "The players did have a ball.", "label": 0}
+{"premise": "The players did have a ball.", "hypothesis": "The players did not have a volleyball.", "label": 0}
+{"premise": "The players did not have a ball.", "hypothesis": "The players did have a volleyball.", "label": 2}
+{"premise": "The players did have a volleyball.", "hypothesis": "The players did not have a ball.", "label": 2}
+{"premise": "The players did not have a volleyball.", "hypothesis": "The players did have a ball.", "label": 0}
+{"premise": "The players did have a ball.", "hypothesis": "The players did not have a handball.", "label": 0}
+{"premise": "The players did not have a ball.", "hypothesis": "The players did have a handball.", "label": 2}
+{"premise": "The players did have a handball.", "hypothesis": "The players did not have a ball.", "label": 2}
+{"premise": "The players did not have a handball.", "hypothesis": "The players did have a ball.", "label": 0}
+{"premise": "The players did have a ball.", "hypothesis": "The players did not have a football.", "label": 0}
+{"premise": "The players did not have a ball.", "hypothesis": "The players did have a football.", "label": 2}
+{"premise": "The players did have a football.", "hypothesis": "The players did not have a ball.", "label": 2}
+{"premise": "The players did not have a football.", "hypothesis": "The players did have a ball.", "label": 0}
+{"premise": "The players did have a ball.", "hypothesis": "The players did not have a racquetball.", "label": 0}
+{"premise": "The players did not have a ball.", "hypothesis": "The players did have a racquetball.", "label": 2}
+{"premise": "The players did have a racquetball.", "hypothesis": "The players did not have a ball.", "label": 2}
+{"premise": "The players did not have a racquetball.", "hypothesis": "The players did have a ball.", "label": 0}
+{"premise": "The players did have a ball.", "hypothesis": "The players did not have a softball.", "label": 0}
+{"premise": "The players did not have a ball.", "hypothesis": "The players did have a softball.", "label": 2}
+{"premise": "The players did have a softball.", "hypothesis": "The players did not have a ball.", "label": 2}
+{"premise": "The players did not have a softball.", "hypothesis": "The players did have a ball.", "label": 0}
+{"premise": "The man is steering a car", "hypothesis": "The man is not steering a taxi", "label": 0}
+{"premise": "The man is not steering a car", "hypothesis": "The man is steering a taxi", "label": 2}
+{"premise": "The man is steering a taxi", "hypothesis": "The man is not steering a car", "label": 2}
+{"premise": "The man is not steering a taxi", "hypothesis": "The man is steering a car", "label": 0}
+{"premise": "The man is steering a car", "hypothesis": "The man is not steering a SUV", "label": 0}
+{"premise": "The man is not steering a car", "hypothesis": "The man is steering a SUV", "label": 2}
+{"premise": "The man is steering a SUV", "hypothesis": "The man is not steering a car", "label": 2}
+{"premise": "The man is not steering a SUV", "hypothesis": "The man is steering a car", "label": 0}
+{"premise": "The man is steering a car", "hypothesis": "The man is not steering a subcompact", "label": 0}
+{"premise": "The man is not steering a car", "hypothesis": "The man is steering a subcompact", "label": 2}
+{"premise": "The man is steering a subcompact", "hypothesis": "The man is not steering a car", "label": 2}
+{"premise": "The man is not steering a subcompact", "hypothesis": "The man is steering a car", "label": 0}
+{"premise": "The man is steering a car", "hypothesis": "The man is not steering a convertible", "label": 0}
+{"premise": "The man is not steering a car", "hypothesis": "The man is steering a convertible", "label": 2}
+{"premise": "The man is steering a convertible", "hypothesis": "The man is not steering a car", "label": 2}
+{"premise": "The man is not steering a convertible", "hypothesis": "The man is steering a car", "label": 0}
+{"premise": "The man is steering a car", "hypothesis": "The man is not steering a jeep", "label": 0}
+{"premise": "The man is not steering a car", "hypothesis": "The man is steering a jeep", "label": 2}
+{"premise": "The man is steering a jeep", "hypothesis": "The man is not steering a car", "label": 2}
+{"premise": "The man is not steering a jeep", "hypothesis": "The man is steering a car", "label": 0}
+{"premise": "The man is steering a car", "hypothesis": "The man is not steering a sedan", "label": 0}
+{"premise": "The man is not steering a car", "hypothesis": "The man is steering a sedan", "label": 2}
+{"premise": "The man is steering a sedan", "hypothesis": "The man is not steering a car", "label": 2}
+{"premise": "The man is not steering a sedan", "hypothesis": "The man is steering a car", "label": 0}
